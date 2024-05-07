@@ -2,4 +2,4 @@
 Rajiv gandhi university of knowledge and technologies
 
 # Branch
- CSE
+ CSE -Computer Science Enginnering
